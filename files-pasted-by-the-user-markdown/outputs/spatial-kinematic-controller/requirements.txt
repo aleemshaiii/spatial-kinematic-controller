@@ -1,0 +1,10 @@
+# Python 3.12 x64; legacy Hands API requires this MediaPipe release.
+mediapipe==0.10.21
+# MediaPipe requires contrib; install only one distribution providing cv2.
+opencv-contrib-python==4.11.0.86
+numpy>=1.26.4,<2
+scipy>=1.11,<2
+pyserial>=3.5,<4
+pyyaml>=6,<7
+streamlit>=1.30,<2
+# Install requirements-gamepad.txt separately (Windows driver prerequisite).

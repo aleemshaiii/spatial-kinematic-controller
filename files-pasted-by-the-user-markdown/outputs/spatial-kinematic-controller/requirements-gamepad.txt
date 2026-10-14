@@ -1,0 +1,2 @@
+# PyPI publishes 0.1.0; the requested >=0.3.3 does not exist.
+vgamepad==0.1.0
