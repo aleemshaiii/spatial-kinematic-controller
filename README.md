@@ -14,11 +14,6 @@ keyboard arrows, or a microcontroller.
 - OpenCV camera overlay and optional Streamlit telemetry dashboard.
 - Eight-byte serial packets with little-endian steering and an XOR checksum.
 
-## Project location
-
-The application source is in
-[`files-pasted-by-the-user-markdown/outputs/spatial-kinematic-controller`](files-pasted-by-the-user-markdown/outputs/spatial-kinematic-controller).
-Run the following commands from the repository's top-level folder.
 
 ## Setup
 
